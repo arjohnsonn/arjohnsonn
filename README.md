@@ -1,6 +1,6 @@
 <!-- GIF -->
 <p align="center">
-  <img src="https://github.com/arjohnsonn/arjohnsonn/blob/main/Background_1.gif?raw=true" />
+  <img src="https://github.com/arjohnsonn/arjohnsonn/blob/main/Background_2.gif?raw=true" />
 </p>
 
 <!-- Typing Animation -->
@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white">
   <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white">
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
 </p>
 
 <!-- Socials -->
