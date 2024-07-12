@@ -48,7 +48,7 @@
    <a align="center" href="https://mail.google.com/mail/?view=cm&to=arjohnsonn12@gmail.com">
      <img src="https://img.shields.io/badge/Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a align="center" href="https://mail.google.com/mail/?view=cm&to=arjohnson12@gmail.com">
+  <a align="center" href="https://mail.google.com/mail/?view=cm&to=arjohnson12@utexas.edu">
      <img src="https://img.shields.io/badge/University-fc7b03?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
