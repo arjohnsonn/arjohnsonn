@@ -1,3 +1,1 @@
-<p align="center">
-    <img src="../../Assets/Background.gif">
-</p>
+![](https://github.com/arjohnsonn/arjohnsonn/Assets/background.gif)
