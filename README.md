@@ -22,7 +22,7 @@
  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgames.roblox.com%2Fv1%2Fgames%2Fvotes%3FuniverseIds%3D4221645607&query=data%5B0%5D.upVotes&style=for-the-badge&label=Likes&color=white" alt="Likes"/>
 </p>
 
-<!-- Skills -->
+<!-- Experience -->
 <h3 align="center">Experience</h3>
 <p align="center">
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -37,6 +37,8 @@
   <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white">
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white">
+  <img src="https://img.shields.io/badge/Heroku-6762A6?style=for-the-badge&logo=Heroku&logoColor=white">
 </p>
 
 <!-- Socials -->
