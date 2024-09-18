@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=1000&size=25&duration=3000&pause=1000&color=0983F7&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub!;Feel+free+to+view+my+projects+%3A);Support+by+a+star+or+follow!;Thanks+for+viewing+my+profile!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=1000&size=25&duration=3000&pause=1000&color=0983F7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub!;Feel+free+to+view+my+projects+%3A);Support+by+a+star+or+follow!;Thanks+for+viewing+my+profile!" alt="Typing SVG" /></a>
 </p>
 
 <!-- Badges -->
@@ -14,6 +14,9 @@
   <img href="https://github.com/arjohnsonn" src="https://img.shields.io/github/stars/arjohnsonn?logo=github&style=for-the-badge" alt="GitHub Stars"> 
   <img href="https://github.com/arjohnsonn" src="https://komarev.com/ghpvc/?username=arjohnsonn&style=for-the-badge&color=red" alt="Profile Views">
 </p>
+
+<!-- Website -->
+<h3 align="center">Personal Website: <br /> https://aidenjohnson.dev<br /></h3>
 
 <!-- Game -->
 <h3 align="center">My Game's Stats</h3>
