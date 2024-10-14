@@ -8,6 +8,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=1000&size=25&duration=3000&pause=1000&color=0983F7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub!;Feel+free+to+view+my+projects+%3A);Support+by+a+star+or+follow!;Thanks+for+viewing+my+profile!" alt="Typing SVG" /></a>
 </p>
 
+<!-- Contribution Snake -->
+![GitHub Contribution Snake](https://raw.githubusercontent.com/arjohnsonn/arjohnsonn/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/arjohnsonn/arjohnsonn/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 <!-- Badges -->
 <p align="center">
   <img href="https://github.com/arjohnsonn" src="https://img.shields.io/github/followers/arjohnsonn?logo=GitHub&style=for-the-badge" alt="GitHub followers">
