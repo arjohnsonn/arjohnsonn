@@ -46,8 +46,10 @@
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
   <img src="https://img.shields.io/badge/Discord.JS-7289DA?style=for-the-badge&logo=Discord&logoColor=white">
   <img src="https://img.shields.io/badge/Heroku-6762A6?style=for-the-badge&logo=Heroku&logoColor=white">
-  <img src="https://img.shields.io/badge/React_Native-363636?style=for-the-badge&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/TailwindCSS-00BCFF?style=for-the-badge&logo=TailwindCSS&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-874FFF?style=for-the-badge&logo=Figma&logoColor=white">
   <img src="https://img.shields.io/badge/C-00589C?style=for-the-badge&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/React_Native-363636?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=Expo&logoColor=white">
 </p>
 
