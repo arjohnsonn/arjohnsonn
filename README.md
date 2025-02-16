@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
@@ -51,6 +51,10 @@
   <img src="https://img.shields.io/badge/C-00589C?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/React_Native-363636?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=Expo&logoColor=white">
+  <img src="https://img.shields.io/badge/React-58C4DC?style=for-the-badge&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3078C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=Supabase&logoColor=white">
 </p>
 
 <!-- Socials -->
