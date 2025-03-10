@@ -1,8 +1,3 @@
-<!-- GIF -->
-<p align="center">
-  <img src="https://github.com/arjohnsonn/arjohnsonn/blob/main/Background_2.gif?raw=true" />
-</p>
-
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=1000&size=25&duration=3000&pause=1000&color=0983F7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub!;Feel+free+to+view+my+projects+%3A);Support+by+a+star+or+follow!;Thanks+for+viewing+my+profile!" alt="Typing SVG" /></a>
