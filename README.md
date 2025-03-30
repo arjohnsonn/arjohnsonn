@@ -50,6 +50,8 @@
   <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3078C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=Supabase&logoColor=white">
+  <img src="https://img.shields.io/badge/Vite-7983F4?style=for-the-badge&logo=Vite&logoColor=white">
+  <img src="https://img.shields.io/badge/Assembly-363636?style=for-the-badge&logo=AArch64&logoColor=white">
 </p>
 
 <!-- Socials -->
